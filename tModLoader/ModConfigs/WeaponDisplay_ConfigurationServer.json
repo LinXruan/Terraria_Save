@@ -1,0 +1,15 @@
+{
+  "ItemAttackCD": 5,
+  "ParryItems": [
+    {
+      "Mod": "WeaponDisplay",
+      "Name": "旧日支配者",
+      "DisplayName": "旧日支配者"
+    },
+    {
+      "Mod": "WeaponDisplay",
+      "Name": "真旧日支配者",
+      "DisplayName": "真▪旧日支配者"
+    }
+  ]
+}

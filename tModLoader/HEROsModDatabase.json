@@ -1,0 +1,61 @@
+{
+  "players": [],
+  "groups": [
+    {
+      "ID": 0,
+      "name": "Default",
+      "color": "255, 255, 255, 255",
+      "permissions": [
+        "ModifyTerrain",
+        "SpawnBosses"
+      ]
+    }
+  ],
+  "worlds": [
+    {
+      "worldID": 1911542617,
+      "name": "Immersed",
+      "BanDestructiveExplosives": false,
+      "TimePaused": false,
+      "TimePausedTime": 0.0,
+      "GraveStonesDisabled": false,
+      "NPCSpawnsDiabled": true,
+      "regions": [],
+      "waypoints": []
+    },
+    {
+      "worldID": 184038330,
+      "name": "illustrate",
+      "BanDestructiveExplosives": false,
+      "TimePaused": false,
+      "TimePausedTime": 0.0,
+      "GraveStonesDisabled": false,
+      "NPCSpawnsDiabled": false,
+      "regions": [],
+      "waypoints": []
+    },
+    {
+      "worldID": 668803022,
+      "name": "illstration",
+      "BanDestructiveExplosives": false,
+      "TimePaused": true,
+      "TimePausedTime": 27056.0,
+      "GraveStonesDisabled": false,
+      "NPCSpawnsDiabled": true,
+      "regions": [],
+      "waypoints": []
+    },
+    {
+      "worldID": 1644610562,
+      "name": "XZFillustrate",
+      "BanDestructiveExplosives": false,
+      "TimePaused": true,
+      "TimePausedTime": 27057.0,
+      "GraveStonesDisabled": false,
+      "NPCSpawnsDiabled": true,
+      "regions": [],
+      "waypoints": []
+    }
+  ],
+  "version": "0.4.18"
+}

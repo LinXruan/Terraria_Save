@@ -1,0 +1,6 @@
+{
+  "DisableHurtOverlay": true,
+  "DisableLowHpOverlay": true,
+  "DisableHPBar": true,
+  "DisableBuffVisual": true
+}

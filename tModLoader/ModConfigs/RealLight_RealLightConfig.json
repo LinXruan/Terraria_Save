@@ -1,0 +1,12 @@
+{
+  "AutoTurn": false,
+  "Light_Bool": false,
+  "algorithmType": 1,
+  "Light_BlurVal": 1.73,
+  "Light_LightLerpStep": 3,
+  "Light_ColorDistance": 1.14,
+  "Shadow_Bool": true,
+  "Shadow_LightDistance": 2.85,
+  "DrawProj": true,
+  "Light_SunForever": false
+}
