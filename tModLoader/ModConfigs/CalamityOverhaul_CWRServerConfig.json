@@ -1,4 +1,11 @@
 {
-  "WeaponLazyRotationAngle": true,
-  "LoadingAA_Volume": 1.0
+  "WeaponHandheldDisplay": false,
+  "EnableSwordLight": false,
+  "MagazineSystem": false,
+  "EnableCasingsEntity": false,
+  "BowArrowDraw": false,
+  "ScreenVibration": false,
+  "MurasamaSpaceFragmentationBool": false,
+  "LoadingAA_Volume": 0.0,
+  "LensEasing": false
 }

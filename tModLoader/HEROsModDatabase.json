@@ -52,7 +52,7 @@
       "TimePaused": true,
       "TimePausedTime": 27057.0,
       "GraveStonesDisabled": false,
-      "NPCSpawnsDiabled": true,
+      "NPCSpawnsDiabled": false,
       "regions": [],
       "waypoints": []
     }

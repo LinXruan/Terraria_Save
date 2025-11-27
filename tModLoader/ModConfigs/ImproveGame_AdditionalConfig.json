@@ -17,7 +17,7 @@
     "BrustDestroyChest": true
   },
   "UseKeybindTranslation": true,
-  "HugeInventoryUIPosition": "616, 298",
+  "HugeInventoryUIPosition": "605, 302",
   "BuffTrackerPosition": "630, 155",
   "WorldFeaturePosition": "250, 280",
   "ItemSearcherPosition": "620, 400",
