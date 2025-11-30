@@ -55,6 +55,17 @@
       "NPCSpawnsDiabled": false,
       "regions": [],
       "waypoints": []
+    },
+    {
+      "worldID": 52427201,
+      "name": "多彩的飞龙大坑",
+      "BanDestructiveExplosives": false,
+      "TimePaused": false,
+      "TimePausedTime": 0.0,
+      "GraveStonesDisabled": false,
+      "NPCSpawnsDiabled": false,
+      "regions": [],
+      "waypoints": []
     }
   ],
   "version": "0.4.18"
